@@ -1,2 +1,3 @@
 # PractiveGIt
-I am learning to use GIt
+I am learning to use Git
+Code
